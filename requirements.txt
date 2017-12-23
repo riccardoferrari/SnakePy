@@ -1,0 +1,1 @@
+To use the source you need to install the PyGame module using ( pip install pygame on cmd on windows or terminal on linux  )
