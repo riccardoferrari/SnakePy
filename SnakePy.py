@@ -82,9 +82,9 @@ def main():
             screen.blit(text_surface, (50,300))
             text_surface = font.render("Don't go counter the walls ", True, BLUE)
             screen.blit(text_surface, (50,350))
-            text_surface = font.render("Press s to start a new game - Press q to quit at any time", True, BLUE)
+            text_surface = font.render("Press S to start a new game - Press Q to quit at any time", True, BLUE)
             screen.blit(text_surface, (50,400))
-            text_surface = font.render("Press p to pause r to resume at any time", True, BLUE)
+            text_surface = font.render("Press P to pause R to resume at any time", True, BLUE)
             screen.blit(text_surface, (50,450))
 
             pygame.display.flip()
