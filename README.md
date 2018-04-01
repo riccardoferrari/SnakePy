@@ -17,5 +17,4 @@ So on cmd or terminal type:"pip install pygame"
 
 ## License
 
-This project is licensed under the GNU License
-
+This project is licensed under the MIT License
